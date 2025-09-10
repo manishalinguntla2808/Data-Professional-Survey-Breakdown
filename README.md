@@ -65,6 +65,27 @@ The Power BI report includes:
 
 ---
 
+## 📷 Key Dashboard Visuals
+
+### 1. Average Salary by Job Title
+![Average Salary by Job Title](Images/avg_salary_by_job.png)
+
+### 2. Country of Survey Takers
+![Country of Survey Takers](Images/country_of_respondents.png)
+
+### 3. Difficulty Level of Breaking into Data
+![Difficulty Level of Breaking into Data](Images/difficulty_breaking_into_data.png)
+
+### 4. Favourite Programming Language
+![Favourite Programming Language](Images/favourite_programming_language.png)
+
+### 5. Happiness with Salary
+![Happiness with Salary](Images/happiness_with_salary.png)
+
+### 6. Happiness with Work-Life Balance
+![Happiness with Work-Life Balance](images/happiness_with_work_life_balance.png)
+
+
 ## ⚙️ Tools & Technologies Used
 - **Power BI Desktop** – Dashboarding, data modeling, DAX measures  
 - **CSV / Excel** – Dataset storage and preparation  
@@ -100,7 +121,3 @@ The Power BI report includes:
 - Only upload **public or anonymized datasets**.  
 - Use `.png` images for visuals to maintain clarity in README.  
 - Keep your Power BI `.pbix` file organized in the `dashboards/` folder for easy access.
-
-
-
-## 📂 Project Structure
