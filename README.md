@@ -50,20 +50,12 @@ The Power BI report includes:
 
 ---
 
-## 📷 Sample Dashboard Images
-![Role Distribution](images/role_distribution.png)  
-*Shows the number of respondents by job role*  
+## 🔹 Explore the Dashboard
+You can download the full interactive dashboard:
 
-![Tools Used](images/tools_used.png)  
-*Highlights the tools used by professionals across roles*  
+[Download Power BI Dashboard](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Dashboards/Data%20Professional%20Survey%20report.pbix)
 
-![Salary Breakdown](images/salary_breakdown.png)  
-*Visualizes salary trends by role and experience*  
-
-![Learning Platforms](images/learning_platforms.png)  
-*Displays the preferred learning platforms among respondents*  
-
----
+> Open with Power BI Desktop to explore filters, slicers, and drill-through features.
 
 ## 📷 Key Dashboard Visuals
 
@@ -116,8 +108,3 @@ The Power BI report includes:
 🔗 [LinkedIn](https://www.linkedin.com/in/manisha-linguntla/) | 🔗 [GitHub](https://github.com/manishalinguntla2808)
 
 ---
-
-## 📌 Notes
-- Only upload **public or anonymized datasets**.  
-- Use `.png` images for visuals to maintain clarity in README.  
-- Keep your Power BI `.pbix` file organized in the `dashboards/` folder for easy access.
