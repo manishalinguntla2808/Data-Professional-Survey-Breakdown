@@ -68,22 +68,22 @@ The Power BI report includes:
 ## 📷 Key Dashboard Visuals
 
 ### 1. Average Salary by Job Title
-![Average Salary by Job Title](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Average%20salary%20by%20job%20title.png)
+![Average Salary by Job Title]([https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Average%20salary%20by%20job%20title.png](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Average%20salary%20by%20job%20title.png))
 
 ### 2. Country of Survey Takers
-![Country of Survey Takers](Images/country_of_respondents.png)
+![Country of Survey Takers]([Images/country_of_respondents.png](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Country%20o%20Survey%20Takers.png))
 
 ### 3. Difficulty Level of Breaking into Data
-![Difficulty Level of Breaking into Data](Images/difficulty_breaking_into_data.png)
+![Difficulty Level of Breaking into Data]([Images/difficulty_breaking_into_data.png](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Difficulty%20level%20of%20breaking%20into%20data.png))
 
 ### 4. Favourite Programming Language
-![Favourite Programming Language](Images/favourite_programming_language.png)
+![Favourite Programming Language]([Images/favourite_programming_language.png](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Favourite%20programming%20language.png))
 
 ### 5. Happiness with Salary
-![Happiness with Salary](Images/happiness_with_salary.png)
+![Happiness with Salary](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Happiness%20with%20slary.png)
 
 ### 6. Happiness with Work-Life Balance
-![Happiness with Work-Life Balance](images/happiness_with_work_life_balance.png)
+![Happiness with Work-Life Balance]([images/happiness_with_work_life_balance.png](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Happiness%20with%20work%20Life%20balance.png))
 
 
 ## ⚙️ Tools & Technologies Used
