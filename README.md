@@ -68,7 +68,7 @@ The Power BI report includes:
 ## 📷 Key Dashboard Visuals
 
 ### 1. Average Salary by Job Title
-![Average Salary by Job Title](Images/avg_salary_by_job.png)
+![Average Salary by Job Title](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Average%20salary%20by%20job%20title.png)
 
 ### 2. Country of Survey Takers
 ![Country of Survey Takers](Images/country_of_respondents.png)
