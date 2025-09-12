@@ -49,6 +49,12 @@ The Power BI report includes:
 ---
 
 ---
+## 🖼️ Dashboard Previews
+
+### Main Dashboard
+![Main Dashboard](https://github.com/manishalinguntla2808/Data-Professional-Survey-Breakdown/blob/main/Images/Data%20Professional%20Survey%20Breakdown.png)
+
+---
 
 ## 🔹 Explore the Dashboard
 You can download the full interactive dashboard:
